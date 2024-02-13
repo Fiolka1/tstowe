@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './ryby.component.css'
 })
 export class RybyComponent {
-
+  ryby:string[]=["łosoś","dorsz","karp","karaś"];
 }
